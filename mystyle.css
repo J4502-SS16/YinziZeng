@@ -1,0 +1,44 @@
+
+#sidebar{
+  position: fixed;
+  left: 50px;
+}
+#content{
+  position: fixed;
+  right:50px;
+}
+
+
+#personal p {
+  font-family:Arial, Helvetica, Sans-Serif;
+  color: green;
+  font-size:10px;
+  font-weight: normal;
+  text-align: center;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  color:red;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+#Navigation a:active{
+  color:blue;
+}
+#Navigation a:hover{
+  color:hotpink;
+}
+#Navigation a:visited{
+  color:green;
+}
+
+img{
+  border: 0;
+}
+
+#Navigation li {
+  list-style-type: none;
+  display: inline;
+}
+body{background-color: lightblue;}
