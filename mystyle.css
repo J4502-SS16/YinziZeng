@@ -40,5 +40,14 @@ img{
 #Navigation li {
   list-style-type: none;
   display: inline;
+  margin-right: 3px;
+}
+
+#Navigation li a {
+  background-color: #ffffff;
+  padding:10px 20px;
+  text-decoration: none;
+  color:#696969;
+  border-radius: 4px 4px 0 0;
 }
 body{background-color: lightblue;}
